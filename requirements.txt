@@ -1,0 +1,6 @@
+# Dependencias del proyecto de conteo en banda transportadora.
+# En este equipo ya están instaladas; este archivo sirve para reproducir
+# el entorno en otra máquina con:  pip install -r requirements.txt
+ultralytics>=8.3      # YOLO: detección + tracking (arrastra torch/torchvision)
+opencv-python>=4.8    # captura de video y dibujo
+numpy>=1.24           # cálculo numérico

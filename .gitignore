@@ -1,0 +1,22 @@
+# Pesos de modelos descargados por Ultralytics
+*.pt
+
+# Videos generados / de salida
+*.mp4
+*.avi
+!.gitkeep
+
+# Dataset descargado de Roboflow (pesa mucho; se baja de su web)
+BOLTS.v1i.yolov11/
+*.zip
+dataset/
+dataset_crudo/
+
+# Resultados de entrenamiento de YOLO
+runs/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
