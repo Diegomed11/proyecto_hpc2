@@ -1,4 +1,4 @@
-# Conteo de objetos sobre banda transportadora (Visión Artificial)
+# Conteo de objetos sobre banda transportadora 
 
 Sistema que cuenta objetos que circulan por una banda transportadora usando
 visión por computadora. Detecta los objetos, les hace seguimiento y los
