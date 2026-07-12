@@ -4,7 +4,7 @@ Sistema que cuenta objetos que circulan por una banda transportadora usando
 visión por computadora. Detecta los objetos, les hace seguimiento y los
 **cuenta cuando cruzan una línea virtual**, separando por dirección.
 
-Incluye **dos enfoques**:
+Incluye
 
 | Script | Enfoque | Cuándo usarlo |
 |---|---|---|
